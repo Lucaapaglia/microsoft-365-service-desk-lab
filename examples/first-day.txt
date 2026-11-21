@@ -1,0 +1,8 @@
+SIMULATED TICKET | first-day
+Observations
+  portal_signin: yes
+  peer_can_open: yes
+  matching_advisory: no
+  plan_enabled: no
+Decision: Route to licensing
+Next check: Send the approved request and disabled app-plan evidence to the licensing owner. Keep the ticket open for an employee retest.
